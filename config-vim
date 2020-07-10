@@ -1,0 +1,6 @@
+
+sudo apt-get install curl vim exuberant-ctags git ack-grep
+sudo pip3 install pep8 flake8 pyflakes isort yapf
+python3 -m pip install --user --upgrade pip
+https://vim.fisadev.com/
+Download the file from https://raw.githubusercontent.com/fisadev/fisa-vim-config/v12.0.1/config.vim
