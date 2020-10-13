@@ -1,0 +1,38 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 100,
+    "editor.autoIndent": "advanced",
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "editor.rulers": [
+        {
+            "column": 99,
+            "color": "#6f9780"
+        },
+        // {
+        //     "column": 99,
+        //     "color": "#921534"
+        // }
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "99"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "breadcrumbs.enabled": true,
+    "editor.largeFileOptimizations": false,
+    "window.zoomLevel": 0
+}
